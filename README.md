@@ -1,5 +1,7 @@
 # Portfolio
 
+#### Technical skills: Python, R, SQL, Azure, Machine Learning, Deep Learning
+
 ### Education 
 -  UG International Business
 -  Msc AI & Applications  
