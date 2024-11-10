@@ -6,8 +6,7 @@
 -  UG International Business
 -  Msc AI & Applications  
 
-### Work Experience 
-- Capgemini Invent 
+
 
 ### Projects 
 - Dog/Cat Classifier
